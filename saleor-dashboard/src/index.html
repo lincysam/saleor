@@ -1,0 +1,87 @@
+<!-- <!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <meta name="robots" content="noindex" />
+    <title>Sign in to the Saleor Dashboard</title>
+
+    <meta
+      name="description"
+      content="Sign in to the Saleor Dashboard to manage your orders, payments, products and more."
+    />
+    <script>
+      const host = window.location.hostname;
+      const port = window.location.port;
+      const protocol = window.location.protocol;
+
+      const fullHost = port ? `${host}:${port}` : host;
+      console.log("><><><<",`${protocol}//${host}:8000/graphql/`);
+
+      window.__SALEOR_CONFIG__ = {
+        API_URL: `${protocol}//${host}:8000/graphql/`,
+        APP_MOUNT_URI: "/",
+        APPS_MARKETPLACE_API_URL: null,
+        EXTENSIONS_API_URL: null,
+        APPS_TUNNEL_URL_KEYWORDS: null,
+        IS_CLOUD_INSTANCE: false,
+        LOCALE_CODE: "en",
+      };
+    </script>
+  </head>
+
+  <body>
+    <div id="dashboard-app"></div>
+    <div id="portal"></div>
+    <div id="modal-root"></div>
+  </body>
+</html> -->
+
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <meta name="robots" content="noindex" />
+    <title>Sign in to the Saleor Dashboard</title>
+
+    <meta
+      name="description"
+      content="Sign in to the Saleor Dashboard to manage your orders, payments, products and more."
+    />
+
+    <script>
+      const host = window.location.hostname;
+      const port = window.location.port;
+      const protocol = window.location.protocol;
+      const apiUrl = `${protocol}//${host}:8000/graphql/`;
+      
+      // Clear stale cache if switching between tenants
+      if (localStorage.getItem("SALEOR_LAST_HOST") !== host) {
+        localStorage.clear();
+        localStorage.setItem("SALEOR_LAST_HOST", host);
+      }
+
+      // Update title dynamically (login page)
+      document.title = `Sign in to ${host}`;
+
+      window.__SALEOR_CONFIG__ = {
+        API_URL: apiUrl,
+        APP_MOUNT_URI: "/",
+        APPS_MARKETPLACE_API_URL: null,
+        EXTENSIONS_API_URL: null,
+        APPS_TUNNEL_URL_KEYWORDS: null,
+        IS_CLOUD_INSTANCE: false,
+        LOCALE_CODE: "en",
+      };
+    </script>
+  </head>
+
+  <body>
+    <div id="dashboard-app"></div>
+    <div id="portal"></div>
+    <div id="modal-root"></div>
+  </body>
+</html>
+
