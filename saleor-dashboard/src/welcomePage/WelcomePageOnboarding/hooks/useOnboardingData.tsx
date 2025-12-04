@@ -67,7 +67,7 @@ const getStepsData = ({
       }),
       description: intl.formatMessage({
         defaultMessage:
-          "Go to all products from where you can create a new product and view it in all product list. View the product in GraphQL",
+          "Go to all products from where you can create a new product and view it in all product list.",
         id: "l0a2tU",
         description: "onboarding step description",
       }),
@@ -96,7 +96,7 @@ const getStepsData = ({
       }),
       description: intl.formatMessage({
         defaultMessage:
-          "Go to all orders where you can create an fulfilment and refund and review corresponding statuses. View the order in GraphQL",
+          "Go to all orders where you can create an fulfilment and refund and review corresponding statuses. ",
         id: "4IawKc",
         description: "onboarding step description",
       }),
@@ -116,66 +116,66 @@ const getStepsData = ({
         </>
       ),
     },
-    {
-      id: "graphql-playground",
-      title: intl.formatMessage({
-        defaultMessage: "Check our GraphQL playground & make an API call",
-        id: "EQfaUv",
-        description: "onboarding step title",
-      }),
-      description: intl.formatMessage({
-        defaultMessage:
-          "Saleor includes a GraphQL Playground, an interactive GraphQL editor, allowing access to your Saleor instance's API through the web browser. The Playground lets you quickly familiarize yourself with the API, perform example operations, and send your first queries and mutations.",
-        id: "Nyxzpe",
-        description: "onboarding step description",
-      }),
-      isCompleted: isStepCompleted("graphql-playground"),
-      actions: (
-        <>
-          <WelcomePageCheckGraphQLButton
-            onClick={() => trackOnboardingEvent("graphql-playground")}
-          />
-          {!isStepCompleted("graphql-playground") && (
-            <Button
-              variant="secondary"
-              onClick={() => onStepComplete("graphql-playground")}
-              data-test-id="graphql-playground-mark-as-done"
-            >
-              <FormattedMessage defaultMessage="Mark as done" id="C5gcqL" description="btn label" />
-            </Button>
-          )}
-        </>
-      ),
-    },
-    {
-      id: "view-extensions" as OnboardingStepsIDs,
-      title: intl.formatMessage({
-        defaultMessage: "Discover extension capabilities",
-        id: "JTjg1r",
-        description: "onboarding step title",
-      }),
-      description: intl.formatMessage({
-        defaultMessage:
-          "Review the central hub for managing all available extensions. Here, you can easily oversee your extensions and enhance Saleor with custom solutions using webhooks and APIs.",
-        id: "zsz6LN",
-        description: "onboarding step description",
-      }),
-      isCompleted: isStepCompleted("view-extensions"),
-      actions: (
-        <>
-          <WelcomePageWebhooksButton onClick={() => trackOnboardingEvent("view-extensions")} />
-          {!isStepCompleted("view-extensions") && (
-            <Button
-              variant="secondary"
-              onClick={() => onStepComplete("view-extensions")}
-              data-test-id="view-extensions-mark-as-done"
-            >
-              <FormattedMessage defaultMessage="Mark as done" id="C5gcqL" description="btn label" />
-            </Button>
-          )}
-        </>
-      ),
-    },
+    // {
+    //   id: "graphql-playground",
+    //   title: intl.formatMessage({
+    //     defaultMessage: "Check our GraphQL playground & make an API call",
+    //     id: "EQfaUv",
+    //     description: "onboarding step title",
+    //   }),
+    //   description: intl.formatMessage({
+    //     defaultMessage:
+    //       "Saleor includes a GraphQL Playground, an interactive GraphQL editor, allowing access to your Saleor instance's API through the web browser. The Playground lets you quickly familiarize yourself with the API, perform example operations, and send your first queries and mutations.",
+    //     id: "Nyxzpe",
+    //     description: "onboarding step description",
+    //   }),
+    //   isCompleted: isStepCompleted("graphql-playground"),
+    //   actions: (
+    //     <>
+    //       <WelcomePageCheckGraphQLButton
+    //         onClick={() => trackOnboardingEvent("graphql-playground")}
+    //       />
+    //       {!isStepCompleted("graphql-playground") && (
+    //         <Button
+    //           variant="secondary"
+    //           onClick={() => onStepComplete("graphql-playground")}
+    //           data-test-id="graphql-playground-mark-as-done"
+    //         >
+    //           <FormattedMessage defaultMessage="Mark as done" id="C5gcqL" description="btn label" />
+    //         </Button>
+    //       )}
+    //     </>
+    //   ),
+    // },
+    // {
+    //   id: "view-extensions" as OnboardingStepsIDs,
+    //   title: intl.formatMessage({
+    //     defaultMessage: "Discover extension capabilities",
+    //     id: "JTjg1r",
+    //     description: "onboarding step title",
+    //   }),
+    //   description: intl.formatMessage({
+    //     defaultMessage:
+    //       "Review the central hub for managing all available extensions. Here, you can easily oversee your extensions and enhance Saleor with custom solutions using webhooks and APIs.",
+    //     id: "zsz6LN",
+    //     description: "onboarding step description",
+    //   }),
+    //   isCompleted: isStepCompleted("view-extensions"),
+    //   actions: (
+    //     <>
+    //       <WelcomePageWebhooksButton onClick={() => trackOnboardingEvent("view-extensions")} />
+    //       {!isStepCompleted("view-extensions") && (
+    //         <Button
+    //           variant="secondary"
+    //           onClick={() => onStepComplete("view-extensions")}
+    //           data-test-id="view-extensions-mark-as-done"
+    //         >
+    //           <FormattedMessage defaultMessage="Mark as done" id="C5gcqL" description="btn label" />
+    //         </Button>
+    //       )}
+    //     </>
+    //   ),
+    // },
     {
       id: "invite-staff",
       title: intl.formatMessage({
