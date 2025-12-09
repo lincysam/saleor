@@ -24,7 +24,7 @@
       "sale": 56,
       "channel": 2,
       "discount_value": "10.000",
-      "currency": "PLN"
+      "currency": "INR"
     }
   },
   {
@@ -34,7 +34,7 @@
       "sale": 56,
       "channel": 1,
       "discount_value": "10.000",
-      "currency": "USD"
+      "currency": "INR"
     }
   },
   {
@@ -1492,7 +1492,7 @@
       "channel": 2,
       "visible_in_listings": false,
       "available_for_purchase_at": "2022-05-12T22:28:54.347Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "36.000"
     }
   },
@@ -1506,7 +1506,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-12T00:00:00Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "9.000"
     }
   },
@@ -1520,7 +1520,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T00:00:00Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "240.000"
     }
   },
@@ -1534,7 +1534,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T00:00:00Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "80.000"
     }
   },
@@ -1548,7 +1548,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T20:39:54.804Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "207.000"
     }
   },
@@ -1562,7 +1562,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T20:39:54.813Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "67.500"
     }
   },
@@ -1576,7 +1576,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T20:47:19.212Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "420.000"
     }
   },
@@ -1590,7 +1590,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T20:47:19.242Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "90.000"
     }
   },
@@ -1604,7 +1604,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T20:58:06.889Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "209.960"
     }
   },
@@ -1618,7 +1618,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T20:58:06.895Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "50.000"
     }
   },
@@ -1632,7 +1632,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:10:34.318Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "100.000"
     }
   },
@@ -1646,7 +1646,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:10:34.327Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "30.000"
     }
   },
@@ -1660,7 +1660,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:40:43.400Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "120.000"
     }
   },
@@ -1674,7 +1674,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:40:43.412Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "35.000"
     }
   },
@@ -1688,7 +1688,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:14:28.706Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "120.000"
     }
   },
@@ -1702,7 +1702,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:14:28.718Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "35.000"
     }
   },
@@ -1716,7 +1716,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:22:42.287Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "90.000"
     }
   },
@@ -1730,7 +1730,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:22:42.298Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "20.000"
     }
   },
@@ -1744,7 +1744,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:31:26.409Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "200.000"
     }
   },
@@ -1758,7 +1758,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:31:26.426Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "40.000"
     }
   },
@@ -1772,7 +1772,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:39:11.647Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "150.000"
     }
   },
@@ -1786,7 +1786,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:39:11.656Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "45.000"
     }
   },
@@ -1800,7 +1800,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:42:58.688Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "135.000"
     }
   },
@@ -1814,7 +1814,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:42:58.694Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "40.500"
     }
   },
@@ -1828,7 +1828,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:45:11.183Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "150.000"
     }
   },
@@ -1842,7 +1842,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-13T21:45:11.191Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "45.000"
     }
   },
@@ -1856,7 +1856,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:33:36.864Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "45.000"
     }
   },
@@ -1870,7 +1870,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:33:36.876Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "9.000"
     }
   },
@@ -1884,7 +1884,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:33:04.609Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "81.000"
     }
   },
@@ -1898,7 +1898,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:33:04.615Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "18.000"
     }
   },
@@ -1912,7 +1912,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:25:09.403Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "60.000"
     }
   },
@@ -1926,7 +1926,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:25:09.408Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "15.000"
     }
   },
@@ -1940,7 +1940,7 @@
       "channel": 2,
       "visible_in_listings": false,
       "available_for_purchase_at": "2022-05-14T21:56:09.039Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "45.000"
     }
   },
@@ -1954,7 +1954,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-14T21:56:09.046Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "10.000"
     }
   },
@@ -1968,7 +1968,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-15T09:07:27.049Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "29.990"
     }
   },
@@ -1982,7 +1982,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T12:09:56.745Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "8.990"
     }
   },
@@ -1996,7 +1996,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-15T09:21:45.107Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "9.990"
     }
   },
@@ -2010,7 +2010,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-15T09:21:45.111Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "2.000"
     }
   },
@@ -2024,7 +2024,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-15T09:28:13.277Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "29.990"
     }
   },
@@ -2038,7 +2038,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-15T09:28:13.293Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "11.990"
     }
   },
@@ -2052,7 +2052,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:38:36.080Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "70.000"
     }
   },
@@ -2066,7 +2066,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:38:36.086Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "18.000"
     }
   },
@@ -2080,7 +2080,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T12:21:41.061Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "5.990"
     }
   },
@@ -2094,7 +2094,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T12:21:41.066Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "1.990"
     }
   },
@@ -2108,7 +2108,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:25:11.675Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "5.990"
     }
   },
@@ -2122,7 +2122,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:25:11.691Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "1.990"
     }
   },
@@ -2136,7 +2136,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:27:16.884Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "5.990"
     }
   },
@@ -2150,7 +2150,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-16T16:27:16.897Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "1.990"
     }
   },
@@ -2164,7 +2164,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T12:36:31.769Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "5.990"
     }
   },
@@ -2178,7 +2178,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T12:36:31.775Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "1.990"
     }
   },
@@ -2192,7 +2192,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T11:44:17.092Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "90.000"
     }
   },
@@ -2206,7 +2206,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T11:44:17.105Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "17.000"
     }
   },
@@ -2220,7 +2220,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T11:50:42.404Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "120.000"
     }
   },
@@ -2234,7 +2234,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T11:50:42.416Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "25.000"
     }
   },
@@ -2248,7 +2248,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T19:30:32.863Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "450.000"
     }
   },
@@ -2262,7 +2262,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T19:30:32.870Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "100.000"
     }
   },
@@ -2276,7 +2276,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T12:04:24.093Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "130.000"
     }
   },
@@ -2290,7 +2290,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-17T12:04:24.101Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "30.000"
     }
   },
@@ -2304,7 +2304,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T12:07:50.177Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "230.000"
     }
   },
@@ -2318,7 +2318,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T12:07:50.182Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "50.000"
     }
   },
@@ -2332,7 +2332,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T19:29:47.375Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "2300.000"
     }
   },
@@ -2346,7 +2346,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T19:29:47.387Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "500.000"
     }
   },
@@ -2360,7 +2360,7 @@
       "channel": 2,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T19:31:14.637Z",
-      "currency": "PLN",
+      "currency": "INR",
       "discounted_price_amount": "230.000"
     }
   },
@@ -2374,7 +2374,7 @@
       "channel": 1,
       "visible_in_listings": true,
       "available_for_purchase_at": "2022-05-18T19:31:14.662Z",
-      "currency": "USD",
+      "currency": "INR",
       "discounted_price_amount": "50.000"
     }
   },
@@ -3876,7 +3876,7 @@
     "fields": {
       "variant": 324,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "40.000",
       "discounted_price_amount": "40.000",
       "cost_price_amount": null,
@@ -3889,7 +3889,7 @@
     "fields": {
       "variant": 324,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "10.000",
       "discounted_price_amount": "10.000",
       "cost_price_amount": null,
@@ -3902,7 +3902,7 @@
     "fields": {
       "variant": 325,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -3915,7 +3915,7 @@
     "fields": {
       "variant": 325,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -3928,7 +3928,7 @@
     "fields": {
       "variant": 326,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -3941,7 +3941,7 @@
     "fields": {
       "variant": 327,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -3954,7 +3954,7 @@
     "fields": {
       "variant": 328,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -3967,7 +3967,7 @@
     "fields": {
       "variant": 329,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -3980,7 +3980,7 @@
     "fields": {
       "variant": 330,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -3993,7 +3993,7 @@
     "fields": {
       "variant": 331,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "240.000",
       "discounted_price_amount": "240.000",
       "cost_price_amount": null,
@@ -4006,7 +4006,7 @@
     "fields": {
       "variant": 326,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -4019,7 +4019,7 @@
     "fields": {
       "variant": 327,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -4032,7 +4032,7 @@
     "fields": {
       "variant": 328,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -4045,7 +4045,7 @@
     "fields": {
       "variant": 329,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -4058,7 +4058,7 @@
     "fields": {
       "variant": 330,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -4071,7 +4071,7 @@
     "fields": {
       "variant": 331,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "80.000",
       "discounted_price_amount": "80.000",
       "cost_price_amount": null,
@@ -4084,7 +4084,7 @@
     "fields": {
       "variant": 332,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "230.000",
       "discounted_price_amount": "230.000",
       "cost_price_amount": null,
@@ -4097,7 +4097,7 @@
     "fields": {
       "variant": 332,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "75.000",
       "discounted_price_amount": "75.000",
       "cost_price_amount": null,
@@ -4110,7 +4110,7 @@
     "fields": {
       "variant": 333,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "230.000",
       "discounted_price_amount": "230.000",
       "cost_price_amount": null,
@@ -4123,7 +4123,7 @@
     "fields": {
       "variant": 333,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "75.000",
       "discounted_price_amount": "75.000",
       "cost_price_amount": null,
@@ -4136,7 +4136,7 @@
     "fields": {
       "variant": 334,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "230.000",
       "discounted_price_amount": "230.000",
       "cost_price_amount": null,
@@ -4149,7 +4149,7 @@
     "fields": {
       "variant": 334,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "75.000",
       "discounted_price_amount": "75.000",
       "cost_price_amount": null,
@@ -4162,7 +4162,7 @@
     "fields": {
       "variant": 335,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "420.000",
       "discounted_price_amount": "420.000",
       "cost_price_amount": null,
@@ -4175,7 +4175,7 @@
     "fields": {
       "variant": 335,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4188,7 +4188,7 @@
     "fields": {
       "variant": 336,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "420.000",
       "discounted_price_amount": "420.000",
       "cost_price_amount": null,
@@ -4201,7 +4201,7 @@
     "fields": {
       "variant": 336,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4214,7 +4214,7 @@
     "fields": {
       "variant": 337,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "420.000",
       "discounted_price_amount": "420.000",
       "cost_price_amount": null,
@@ -4227,7 +4227,7 @@
     "fields": {
       "variant": 337,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4240,7 +4240,7 @@
     "fields": {
       "variant": 338,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "420.000",
       "discounted_price_amount": "420.000",
       "cost_price_amount": null,
@@ -4253,7 +4253,7 @@
     "fields": {
       "variant": 338,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4266,7 +4266,7 @@
     "fields": {
       "variant": 339,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "420.000",
       "discounted_price_amount": "420.000",
       "cost_price_amount": null,
@@ -4279,7 +4279,7 @@
     "fields": {
       "variant": 339,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4292,7 +4292,7 @@
     "fields": {
       "variant": 340,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "209.960",
       "discounted_price_amount": "209.960",
       "cost_price_amount": null,
@@ -4305,7 +4305,7 @@
     "fields": {
       "variant": 340,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -4318,7 +4318,7 @@
     "fields": {
       "variant": 341,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "209.960",
       "discounted_price_amount": "209.960",
       "cost_price_amount": null,
@@ -4331,7 +4331,7 @@
     "fields": {
       "variant": 341,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -4344,7 +4344,7 @@
     "fields": {
       "variant": 342,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "209.960",
       "discounted_price_amount": "209.960",
       "cost_price_amount": null,
@@ -4357,7 +4357,7 @@
     "fields": {
       "variant": 342,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -4370,7 +4370,7 @@
     "fields": {
       "variant": 343,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "209.960",
       "discounted_price_amount": "209.960",
       "cost_price_amount": null,
@@ -4383,7 +4383,7 @@
     "fields": {
       "variant": 343,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -4396,7 +4396,7 @@
     "fields": {
       "variant": 344,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "209.960",
       "discounted_price_amount": "209.960",
       "cost_price_amount": null,
@@ -4409,7 +4409,7 @@
     "fields": {
       "variant": 344,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -4422,7 +4422,7 @@
     "fields": {
       "variant": 345,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "100.000",
       "discounted_price_amount": "100.000",
       "cost_price_amount": null,
@@ -4435,7 +4435,7 @@
     "fields": {
       "variant": 345,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "30.000",
       "discounted_price_amount": "30.000",
       "cost_price_amount": null,
@@ -4448,7 +4448,7 @@
     "fields": {
       "variant": 346,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "120.000",
       "discounted_price_amount": "120.000",
       "cost_price_amount": null,
@@ -4461,7 +4461,7 @@
     "fields": {
       "variant": 346,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "35.000",
       "discounted_price_amount": "35.000",
       "cost_price_amount": null,
@@ -4474,7 +4474,7 @@
     "fields": {
       "variant": 347,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "120.000",
       "discounted_price_amount": "120.000",
       "cost_price_amount": null,
@@ -4487,7 +4487,7 @@
     "fields": {
       "variant": 347,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "35.000",
       "discounted_price_amount": "35.000",
       "cost_price_amount": null,
@@ -4500,7 +4500,7 @@
     "fields": {
       "variant": 348,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4513,7 +4513,7 @@
     "fields": {
       "variant": 348,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "20.000",
       "discounted_price_amount": "20.000",
       "cost_price_amount": null,
@@ -4526,7 +4526,7 @@
     "fields": {
       "variant": 349,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4539,7 +4539,7 @@
     "fields": {
       "variant": 349,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "20.000",
       "discounted_price_amount": "20.000",
       "cost_price_amount": null,
@@ -4552,7 +4552,7 @@
     "fields": {
       "variant": 350,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4565,7 +4565,7 @@
     "fields": {
       "variant": 350,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "20.000",
       "discounted_price_amount": "20.000",
       "cost_price_amount": null,
@@ -4578,7 +4578,7 @@
     "fields": {
       "variant": 351,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4591,7 +4591,7 @@
     "fields": {
       "variant": 351,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "20.000",
       "discounted_price_amount": "20.000",
       "cost_price_amount": null,
@@ -4604,7 +4604,7 @@
     "fields": {
       "variant": 352,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -4617,7 +4617,7 @@
     "fields": {
       "variant": 352,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "20.000",
       "discounted_price_amount": "20.000",
       "cost_price_amount": null,
@@ -4630,7 +4630,7 @@
     "fields": {
       "variant": 353,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "200.000",
       "discounted_price_amount": "200.000",
       "cost_price_amount": null,
@@ -4643,7 +4643,7 @@
     "fields": {
       "variant": 353,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "40.000",
       "discounted_price_amount": "40.000",
       "cost_price_amount": null,
@@ -4656,7 +4656,7 @@
     "fields": {
       "variant": 354,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "200.000",
       "discounted_price_amount": "200.000",
       "cost_price_amount": null,
@@ -4669,7 +4669,7 @@
     "fields": {
       "variant": 354,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "40.000",
       "discounted_price_amount": "40.000",
       "cost_price_amount": null,
@@ -4682,7 +4682,7 @@
     "fields": {
       "variant": 355,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "200.000",
       "discounted_price_amount": "200.000",
       "cost_price_amount": null,
@@ -4695,7 +4695,7 @@
     "fields": {
       "variant": 355,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "40.000",
       "discounted_price_amount": "40.000",
       "cost_price_amount": null,
@@ -4708,7 +4708,7 @@
     "fields": {
       "variant": 356,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "200.000",
       "discounted_price_amount": "200.000",
       "cost_price_amount": null,
@@ -4721,7 +4721,7 @@
     "fields": {
       "variant": 356,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "40.000",
       "discounted_price_amount": "40.000",
       "cost_price_amount": null,
@@ -4734,7 +4734,7 @@
     "fields": {
       "variant": 357,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "200.000",
       "discounted_price_amount": "200.000",
       "cost_price_amount": null,
@@ -4747,7 +4747,7 @@
     "fields": {
       "variant": 357,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "40.000",
       "discounted_price_amount": "40.000",
       "cost_price_amount": null,
@@ -4760,7 +4760,7 @@
     "fields": {
       "variant": 358,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4773,7 +4773,7 @@
     "fields": {
       "variant": 358,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4786,7 +4786,7 @@
     "fields": {
       "variant": 359,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4799,7 +4799,7 @@
     "fields": {
       "variant": 359,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4812,7 +4812,7 @@
     "fields": {
       "variant": 360,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4825,7 +4825,7 @@
     "fields": {
       "variant": 360,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4838,7 +4838,7 @@
     "fields": {
       "variant": 361,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4851,7 +4851,7 @@
     "fields": {
       "variant": 361,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4864,7 +4864,7 @@
     "fields": {
       "variant": 362,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4877,7 +4877,7 @@
     "fields": {
       "variant": 362,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4890,7 +4890,7 @@
     "fields": {
       "variant": 363,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4903,7 +4903,7 @@
     "fields": {
       "variant": 363,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4916,7 +4916,7 @@
     "fields": {
       "variant": 364,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4929,7 +4929,7 @@
     "fields": {
       "variant": 364,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4942,7 +4942,7 @@
     "fields": {
       "variant": 365,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4955,7 +4955,7 @@
     "fields": {
       "variant": 365,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4968,7 +4968,7 @@
     "fields": {
       "variant": 366,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "150.000",
       "discounted_price_amount": "150.000",
       "cost_price_amount": null,
@@ -4981,7 +4981,7 @@
     "fields": {
       "variant": 366,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -4994,7 +4994,7 @@
     "fields": {
       "variant": 368,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -5007,7 +5007,7 @@
     "fields": {
       "variant": 368,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "10.000",
       "discounted_price_amount": "10.000",
       "cost_price_amount": null,
@@ -5020,7 +5020,7 @@
     "fields": {
       "variant": 370,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -5033,7 +5033,7 @@
     "fields": {
       "variant": 370,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "20.000",
       "discounted_price_amount": "20.000",
       "cost_price_amount": null,
@@ -5046,7 +5046,7 @@
     "fields": {
       "variant": 371,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "60.000",
       "discounted_price_amount": "60.000",
       "cost_price_amount": null,
@@ -5059,7 +5059,7 @@
     "fields": {
       "variant": 371,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "15.000",
       "discounted_price_amount": "15.000",
       "cost_price_amount": null,
@@ -5072,7 +5072,7 @@
     "fields": {
       "variant": 372,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -5085,7 +5085,7 @@
     "fields": {
       "variant": 372,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "10.000",
       "discounted_price_amount": "10.000",
       "cost_price_amount": null,
@@ -5098,7 +5098,7 @@
     "fields": {
       "variant": 373,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -5111,7 +5111,7 @@
     "fields": {
       "variant": 373,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "10.000",
       "discounted_price_amount": "10.000",
       "cost_price_amount": null,
@@ -5124,7 +5124,7 @@
     "fields": {
       "variant": 374,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "45.000",
       "discounted_price_amount": "45.000",
       "cost_price_amount": null,
@@ -5137,7 +5137,7 @@
     "fields": {
       "variant": 374,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "10.000",
       "discounted_price_amount": "10.000",
       "cost_price_amount": null,
@@ -5150,7 +5150,7 @@
     "fields": {
       "variant": 375,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "29.990",
       "discounted_price_amount": "29.990",
       "cost_price_amount": null,
@@ -5163,7 +5163,7 @@
     "fields": {
       "variant": 375,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "8.990",
       "discounted_price_amount": "8.990",
       "cost_price_amount": null,
@@ -5176,7 +5176,7 @@
     "fields": {
       "variant": 376,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "29.990",
       "discounted_price_amount": "29.990",
       "cost_price_amount": null,
@@ -5189,7 +5189,7 @@
     "fields": {
       "variant": 376,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "8.990",
       "discounted_price_amount": "8.990",
       "cost_price_amount": null,
@@ -5202,7 +5202,7 @@
     "fields": {
       "variant": 377,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "29.990",
       "discounted_price_amount": "29.990",
       "cost_price_amount": null,
@@ -5215,7 +5215,7 @@
     "fields": {
       "variant": 377,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "8.990",
       "discounted_price_amount": "8.990",
       "cost_price_amount": null,
@@ -5228,7 +5228,7 @@
     "fields": {
       "variant": 378,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "29.990",
       "discounted_price_amount": "29.990",
       "cost_price_amount": null,
@@ -5241,7 +5241,7 @@
     "fields": {
       "variant": 378,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "8.990",
       "discounted_price_amount": "8.990",
       "cost_price_amount": null,
@@ -5254,7 +5254,7 @@
     "fields": {
       "variant": 379,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "9.990",
       "discounted_price_amount": "9.990",
       "cost_price_amount": null,
@@ -5267,7 +5267,7 @@
     "fields": {
       "variant": 379,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "2.000",
       "discounted_price_amount": "2.000",
       "cost_price_amount": null,
@@ -5280,7 +5280,7 @@
     "fields": {
       "variant": 380,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "9.990",
       "discounted_price_amount": "9.990",
       "cost_price_amount": null,
@@ -5293,7 +5293,7 @@
     "fields": {
       "variant": 380,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "2.000",
       "discounted_price_amount": "2.000",
       "cost_price_amount": null,
@@ -5306,7 +5306,7 @@
     "fields": {
       "variant": 382,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "29.990",
       "discounted_price_amount": "29.990",
       "cost_price_amount": null,
@@ -5319,7 +5319,7 @@
     "fields": {
       "variant": 382,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "11.990",
       "discounted_price_amount": "11.990",
       "cost_price_amount": null,
@@ -5332,7 +5332,7 @@
     "fields": {
       "variant": 383,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "70.000",
       "discounted_price_amount": "70.000",
       "cost_price_amount": null,
@@ -5345,7 +5345,7 @@
     "fields": {
       "variant": 383,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "18.000",
       "discounted_price_amount": "18.000",
       "cost_price_amount": null,
@@ -5358,7 +5358,7 @@
     "fields": {
       "variant": 384,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "5.990",
       "discounted_price_amount": "5.990",
       "cost_price_amount": null,
@@ -5371,7 +5371,7 @@
     "fields": {
       "variant": 384,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "1.990",
       "discounted_price_amount": "1.990",
       "cost_price_amount": null,
@@ -5384,7 +5384,7 @@
     "fields": {
       "variant": 385,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "5.990",
       "discounted_price_amount": "5.990",
       "cost_price_amount": null,
@@ -5397,7 +5397,7 @@
     "fields": {
       "variant": 385,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "1.990",
       "discounted_price_amount": "1.990",
       "cost_price_amount": null,
@@ -5410,7 +5410,7 @@
     "fields": {
       "variant": 386,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "5.990",
       "discounted_price_amount": "5.990",
       "cost_price_amount": null,
@@ -5423,7 +5423,7 @@
     "fields": {
       "variant": 386,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "1.990",
       "discounted_price_amount": "1.990",
       "cost_price_amount": null,
@@ -5436,7 +5436,7 @@
     "fields": {
       "variant": 387,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "5.990",
       "discounted_price_amount": "5.990",
       "cost_price_amount": null,
@@ -5449,7 +5449,7 @@
     "fields": {
       "variant": 387,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "1.990",
       "discounted_price_amount": "1.990",
       "cost_price_amount": null,
@@ -5462,7 +5462,7 @@
     "fields": {
       "variant": 388,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "90.000",
       "discounted_price_amount": "90.000",
       "cost_price_amount": null,
@@ -5475,7 +5475,7 @@
     "fields": {
       "variant": 388,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "17.000",
       "discounted_price_amount": "17.000",
       "cost_price_amount": null,
@@ -5488,7 +5488,7 @@
     "fields": {
       "variant": 389,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "120.000",
       "discounted_price_amount": "120.000",
       "cost_price_amount": null,
@@ -5501,7 +5501,7 @@
     "fields": {
       "variant": 389,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "25.000",
       "discounted_price_amount": "25.000",
       "cost_price_amount": null,
@@ -5514,7 +5514,7 @@
     "fields": {
       "variant": 390,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "120.000",
       "discounted_price_amount": "120.000",
       "cost_price_amount": null,
@@ -5527,7 +5527,7 @@
     "fields": {
       "variant": 390,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "25.000",
       "discounted_price_amount": "25.000",
       "cost_price_amount": null,
@@ -5540,7 +5540,7 @@
     "fields": {
       "variant": 393,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "450.000",
       "discounted_price_amount": "450.000",
       "cost_price_amount": null,
@@ -5553,7 +5553,7 @@
     "fields": {
       "variant": 393,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "100.000",
       "discounted_price_amount": "100.000",
       "cost_price_amount": null,
@@ -5566,7 +5566,7 @@
     "fields": {
       "variant": 394,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "130.000",
       "discounted_price_amount": "130.000",
       "cost_price_amount": null,
@@ -5579,7 +5579,7 @@
     "fields": {
       "variant": 394,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "30.000",
       "discounted_price_amount": "30.000",
       "cost_price_amount": null,
@@ -5592,7 +5592,7 @@
     "fields": {
       "variant": 395,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "130.000",
       "discounted_price_amount": "130.000",
       "cost_price_amount": null,
@@ -5605,7 +5605,7 @@
     "fields": {
       "variant": 395,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "30.000",
       "discounted_price_amount": "30.000",
       "cost_price_amount": null,
@@ -5618,7 +5618,7 @@
     "fields": {
       "variant": 396,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "130.000",
       "discounted_price_amount": "130.000",
       "cost_price_amount": null,
@@ -5631,7 +5631,7 @@
     "fields": {
       "variant": 396,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "30.000",
       "discounted_price_amount": "30.000",
       "cost_price_amount": null,
@@ -5644,7 +5644,7 @@
     "fields": {
       "variant": 397,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "130.000",
       "discounted_price_amount": "130.000",
       "cost_price_amount": null,
@@ -5657,7 +5657,7 @@
     "fields": {
       "variant": 397,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "30.000",
       "discounted_price_amount": "30.000",
       "cost_price_amount": null,
@@ -5670,7 +5670,7 @@
     "fields": {
       "variant": 398,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "130.000",
       "discounted_price_amount": "130.000",
       "cost_price_amount": null,
@@ -5683,7 +5683,7 @@
     "fields": {
       "variant": 398,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "30.000",
       "discounted_price_amount": "30.000",
       "cost_price_amount": null,
@@ -5696,7 +5696,7 @@
     "fields": {
       "variant": 399,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "230.000",
       "discounted_price_amount": "230.000",
       "cost_price_amount": null,
@@ -5709,7 +5709,7 @@
     "fields": {
       "variant": 399,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -5722,7 +5722,7 @@
     "fields": {
       "variant": 400,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "2300.000",
       "discounted_price_amount": "2300.000",
       "cost_price_amount": null,
@@ -5735,7 +5735,7 @@
     "fields": {
       "variant": 400,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "500.000",
       "discounted_price_amount": "500.000",
       "cost_price_amount": null,
@@ -5748,7 +5748,7 @@
     "fields": {
       "variant": 401,
       "channel": 2,
-      "currency": "PLN",
+      "currency": "INR",
       "price_amount": "230.000",
       "discounted_price_amount": "230.000",
       "cost_price_amount": null,
@@ -5761,7 +5761,7 @@
     "fields": {
       "variant": 401,
       "channel": 1,
-      "currency": "USD",
+      "currency": "INR",
       "price_amount": "50.000",
       "discounted_price_amount": "50.000",
       "cost_price_amount": null,
@@ -8143,22 +8143,22 @@
     "model": "channel.channel",
     "pk": 1,
     "fields": {
-      "name": "Channel-USD",
+      "name": "Retail",
       "is_active": true,
-      "slug": "default-channel",
-      "currency_code": "USD",
-      "default_country": "US"
+      "slug": "ind_retail",
+      "currency_code": "INR",
+      "default_country": "IN"
     }
   },
   {
     "model": "channel.channel",
     "pk": 2,
     "fields": {
-      "name": "Channel-PLN",
+      "name": "Wholesale",
       "is_active": true,
-      "slug": "channel-pln",
-      "currency_code": "PLN",
-      "default_country": "PL"
+      "slug": "ind_wholesale",
+      "currency_code": "INR",
+      "default_country": "IN"
     }
   },
   {
@@ -8658,7 +8658,7 @@
       "shipping_method": 267,
       "channel": 1,
       "minimum_order_price_amount": "0.000",
-      "currency": "USD",
+      "currency": "INR",
       "maximum_order_price_amount": "200.000",
       "price_amount": "71.400"
     }

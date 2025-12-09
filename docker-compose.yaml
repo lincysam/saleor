@@ -5,14 +5,15 @@ services:
     image: axllent/mailpit:latest
     container_name: mailpit
     ports:
-      - "1025:1025"   
-      - "8025:8025"   
+      - "1025:1025"
+      - "8025:8025"
     restart: unless-stopped
+
   db:
     image: postgres:15
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: lincyDB@123
+      POSTGRES_PASSWORD: lincy123
       POSTGRES_DB: saleor_docker
     ports:
       - "5432:5432"
@@ -31,28 +32,30 @@ services:
     ports:
       - "8000:8000"
     
-    command: >
-      bash -c "
-        poetry run python manage.py migrate &&
-        poetry run python manage.py collectstatic --noinput &&
-        poetry run uvicorn saleor.asgi:application --host 0.0.0.0 --port 8000
-      "
+   
     volumes:
       - ./saleor:/app
+      - ./saleor/.initialized:/app/.initialized 
     depends_on:
       - saleor-redis
       - db
       - mailpit
     environment:
       REDIS_URL: redis://saleor-redis:6379/0
-      DATABASE_URL: postgres://postgres:lincyDB%40123@db:5432/saleor_docker
+      DATABASE_URL: postgres://postgres:lincy123@db:5432/saleor_docker
       USER_EMAIL_HOST: mailpit
       USER_EMAIL_PORT: 1025
       USER_EMAIL_USE_TLS: "False"
       USER_EMAIL_USE_SSL: "False"
-      USER_EMAIL_SENDER_NAME: "Saleor Admin"
+      USER_EMAIL_SENDER_NAME: "Admin"
       USER_EMAIL_SENDER_ADDRESS: "admin@example.com"
       POETRY_VIRTUALENVS_CREATE: "false"
+      ALLOWED_HOSTS: "vendor1.localhost,localhost,0.0.0.0,saleor-backend,127.0.0.1"
+      ALLOWED_CLIENT_HOSTS: "vendor1.localhost:8080,localhost:8080,vendor1.localhost"
+      CORS_ALLOWED_ORIGINS: "http://vendor1.localhost:8080,http://localhost:8080"
+      CSRF_TRUSTED_ORIGINS: "http://vendor1.localhost:8080,http://localhost:8080"
+      CORS_ALLOW_CREDENTIALS: "true"
+      CORS_ALLOW_ALL_ORIGINS: "false"
   saleor-dashboard:
     build:
       context: ./saleor-dashboard
@@ -61,6 +64,21 @@ services:
       - ./saleor-dashboard/.env
     ports:
       - "9000:80"
+    stdin_open: true
+    tty: true
+    depends_on:
+      - saleor-backend
+
+  saleor-frontend:
+    build:
+      context: ./ecom-fe
+    container_name: saleor-frontend
+    env_file:
+      - ./ecom-fe/.env
+    ports:
+      - "8080:80"
+    environment:
+      - VITE_SALEOR_API_URL=/graphql/ 
     stdin_open: true
     tty: true
     depends_on:

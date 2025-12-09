@@ -24,9 +24,9 @@ export const WelcomePageTilesContainer = () => {
       gap={6}
       marginTop={7}
     >
-      {tiles.map(tile => (
+      {/* {tiles.map(tile => (
         <WelcomePageInfoTile key={tile.id} {...tile} />
-      ))}
+      ))} */}
     </Box>
   );
 };

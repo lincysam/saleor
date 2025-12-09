@@ -86,13 +86,13 @@ export function useMenuStructure() {
         permissions: [],
         type: "item",
       },
-      {
-        label: intl.formatMessage(sectionNames.exploreExtensions),
-        id: "explore-extensions",
-        url: ExtensionsPaths.exploreExtensions,
-        permissions: [],
-        type: "item",
-      },
+      // {
+      //   label: intl.formatMessage(sectionNames.exploreExtensions),
+      //   id: "explore-extensions",
+      //   url: ExtensionsPaths.exploreExtensions,
+      //   permissions: [],
+      //   type: "item",
+      // },
     ],
   });
 
@@ -229,53 +229,53 @@ export function useMenuStructure() {
       id: "discounts",
       type: "itemGroup",
     },
-    {
-      children: [
-        {
-          label: intl.formatMessage(sectionNames.models),
-          id: "models",
-          url: pageListPath,
-          permissions: [PermissionEnum.MANAGE_PAGES],
-          type: "item",
-        },
-        {
-          label: intl.formatMessage(sectionNames.modelTypes),
-          id: "model-types",
-          url: pageTypeListUrl(),
-          permissions: [
-            PermissionEnum.MANAGE_PAGES,
-            PermissionEnum.MANAGE_PAGE_TYPES_AND_ATTRIBUTES,
-          ],
-          type: "item",
-        },
-        {
-          label: intl.formatMessage(sectionNames.structures),
-          id: "structures",
-          url: menuListUrl(),
-          permissions: [PermissionEnum.MANAGE_MENUS],
-          type: "item",
-        },
-        ...mapToExtensionsItems(extensions.NAVIGATION_PAGES, appExtensionsHeaderItem),
-      ],
-      icon: renderIcon(<ModelingIcon />),
-      label: intl.formatMessage(sectionNames.modeling),
-      permissions: [PermissionEnum.MANAGE_PAGES, PermissionEnum.MANAGE_MENUS],
-      id: "modeling",
-      url: pageListPath,
-      endAdornment: <Ripple model={ripplePagesAreModels} />,
-      type: "itemGroup",
-    },
-    {
-      children: !isEmpty(extensions.NAVIGATION_TRANSLATIONS)
-        ? [...mapToExtensionsItems(extensions.NAVIGATION_TRANSLATIONS, appExtensionsHeaderItem)]
-        : undefined,
-      icon: renderIcon(<TranslationsIcon />),
-      label: intl.formatMessage(sectionNames.translations),
-      permissions: [PermissionEnum.MANAGE_TRANSLATIONS],
-      id: "translations",
-      url: languageListUrl,
-      type: !isEmpty(extensions.NAVIGATION_TRANSLATIONS) ? "itemGroup" : "item",
-    },
+    // {
+    //   children: [
+    //     {
+    //       label: intl.formatMessage(sectionNames.models),
+    //       id: "models",
+    //       url: pageListPath,
+    //       permissions: [PermissionEnum.MANAGE_PAGES],
+    //       type: "item",
+    //     },
+    //     {
+    //       label: intl.formatMessage(sectionNames.modelTypes),
+    //       id: "model-types",
+    //       url: pageTypeListUrl(),
+    //       permissions: [
+    //         PermissionEnum.MANAGE_PAGES,
+    //         PermissionEnum.MANAGE_PAGE_TYPES_AND_ATTRIBUTES,
+    //       ],
+    //       type: "item",
+    //     },
+    //     {
+    //       label: intl.formatMessage(sectionNames.structures),
+    //       id: "structures",
+    //       url: menuListUrl(),
+    //       permissions: [PermissionEnum.MANAGE_MENUS],
+    //       type: "item",
+    //     },
+    //     ...mapToExtensionsItems(extensions.NAVIGATION_PAGES, appExtensionsHeaderItem),
+    //   ],
+    //   icon: renderIcon(<ModelingIcon />),
+    //   label: intl.formatMessage(sectionNames.modeling),
+    //   permissions: [PermissionEnum.MANAGE_PAGES, PermissionEnum.MANAGE_MENUS],
+    //   id: "modeling",
+    //   url: pageListPath,
+    //   endAdornment: <Ripple model={ripplePagesAreModels} />,
+    //   type: "itemGroup",
+    // },
+    // {
+    //   children: !isEmpty(extensions.NAVIGATION_TRANSLATIONS)
+    //     ? [...mapToExtensionsItems(extensions.NAVIGATION_TRANSLATIONS, appExtensionsHeaderItem)]
+    //     : undefined,
+    //   icon: renderIcon(<TranslationsIcon />),
+    //   label: intl.formatMessage(sectionNames.translations),
+    //   permissions: [PermissionEnum.MANAGE_TRANSLATIONS],
+    //   id: "translations",
+    //   url: languageListUrl,
+    //   type: !isEmpty(extensions.NAVIGATION_TRANSLATIONS) ? "itemGroup" : "item",
+    // },
     getExtensionsSection(),
     {
       icon: renderIcon(<ConfigurationIcon />),

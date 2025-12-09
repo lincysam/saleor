@@ -63,7 +63,8 @@ RUN SECRET_KEY=dummy STATIC_URL=${STATIC_URL} python manage.py collectstatic --n
 
 # Entrypoint
 COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
+RUN sed -i 's/\r$//' /entrypoint.sh && chmod +x /entrypoint.sh
+# RUN chmod +x /entrypoint.sh
 
 USER saleor
 EXPOSE 8000

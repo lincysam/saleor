@@ -118,10 +118,10 @@ CSRF_TRUSTED_ORIGINS = [
     "http://vendor1.localhost:9000",
     "http://vendor2.localhost:9000",
     "http://localhost:3000",
-     "http://127.0.0.1:3000",
-    "http://vendor1.localhost:3000",
-    "http://vendor2.localhost:3000",
-    "http://vendor3.localhost:3000",
+     "http://127.0.0.1:8080",
+    "http://vendor1.localhost:8080",
+    "http://vendor2.localhost:8080",
+    "http://vendor3.localhost:8080",
 ]
 
 # --- CORS setup ---
@@ -134,16 +134,16 @@ CORS_ALLOWED_ORIGINS = [
     "http://vendor2.localhost:9000",
     "http://localhost:3000",
     "http://vendor1.localhost:3000",
-    "http://127.0.0.1:3000",
-    "http://vendor1.127.0.0.1:3000",
-    "http://vendor1.localhost:3000",
+    "http://127.0.0.1:8080",
+    "http://vendor1.localhost:8080",
+    "http://vendor2.localhost:8080",
 
 ]
 
 import re
 CORS_ALLOWED_ORIGIN_REGEXES = [
     re.compile(r"^http://([a-zA-Z0-9-]+)\.localhost:9000$"), 
-    re.compile(r"^http://([a-zA-Z0-9-]+)\.localhost:3000$"), # allow any subdomain
+    re.compile(r"^http://([a-zA-Z0-9-]+)\.localhost:8080$"), # allow any subdomain
 ]
 
 CORS_ALLOW_HEADERS = [
@@ -588,7 +588,7 @@ AUTH_PASSWORD_VALIDATORS = [
     }
 ]
 
-DEFAULT_COUNTRY: str = os.environ.get("DEFAULT_COUNTRY", "US")
+DEFAULT_COUNTRY: str = os.environ.get("DEFAULT_COUNTRY", "IN")
 DEFAULT_DECIMAL_PLACES = 3
 DEFAULT_MAX_DIGITS = 20
 DEFAULT_CURRENCY_CODE_LENGTH = 3
@@ -911,7 +911,7 @@ REAL_IP_ENVIRON = get_list(os.environ.get("REAL_IP_ENVIRON", "REMOTE_ADDR"))
 DEFAULT_MENUS = {"top_menu_name": "navbar", "bottom_menu_name": "footer"}
 
 # Slug for channel precreated in Django migrations
-DEFAULT_CHANNEL_SLUG = os.environ.get("DEFAULT_CHANNEL_SLUG", "default-channel")
+DEFAULT_CHANNEL_SLUG = os.environ.get("DEFAULT_CHANNEL_SLUG", "ind_retail")
 
 # Set this to `True` if you want to create default channel, warehouse, product type and
 # category during migrations. It makes it easier for the users to create their first
