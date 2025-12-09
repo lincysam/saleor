@@ -37,7 +37,7 @@ class Command(BaseCommand):
                 Channel.objects.create(
                     slug="default-channel",
                     name="Default Channel",
-                    currency_code="USD",
+                    currency_code="INR",
                     is_active=True,
                 )
                 self.stdout.write(self.style.SUCCESS("✅ Created default channel"))

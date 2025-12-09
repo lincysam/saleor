@@ -217,7 +217,7 @@ def create_categories(categories_data, placeholder_dir):
 
 def create_collection_channel_listings(collection_channel_listings_data):
     channel_USD = Channel.objects.get(slug=settings.DEFAULT_CHANNEL_SLUG)
-    channel_PLN = Channel.objects.get(slug="wholesale")
+    channel_PLN = Channel.objects.get(slug="ind_wholesale")
     for collection_channel_listing in collection_channel_listings_data:
         pk = collection_channel_listing["pk"]
         defaults = dict(collection_channel_listing["fields"])
@@ -287,7 +287,7 @@ def create_products(products_data, placeholder_dir, create_images):
 
 def create_product_channel_listings(product_channel_listings_data):
     channel_USD = Channel.objects.get(slug=settings.DEFAULT_CHANNEL_SLUG)
-    channel_PLN = Channel.objects.get(slug="wholesale")
+    channel_PLN = Channel.objects.get(slug="ind_wholesale")
     for product_channel_listing in product_channel_listings_data:
         pk = product_channel_listing["pk"]
         defaults = dict(product_channel_listing["fields"])
@@ -334,7 +334,7 @@ def create_product_variants(variants_data, create_images):
 
 def create_product_variant_channel_listings(product_variant_channel_listings_data):
     channel_USD = Channel.objects.get(slug=settings.DEFAULT_CHANNEL_SLUG)
-    channel_PLN = Channel.objects.get(slug="wholesale")
+    channel_PLN = Channel.objects.get(slug="ind_wholesale")
     for variant_channel_listing in product_variant_channel_listings_data:
         pk = variant_channel_listing["pk"]
         defaults = dict(variant_channel_listing["fields"])
@@ -757,7 +757,7 @@ def create_fulfillments(order):
 
 def create_fake_order(max_order_lines=5, create_preorder_lines=False):
     channel = (
-        Channel.objects.filter(slug__in=[settings.DEFAULT_CHANNEL_SLUG, "wholesale"])
+        Channel.objects.filter(slug__in=[settings.DEFAULT_CHANNEL_SLUG, "ind_wholesale"])
         .order_by("?")
         .first()
     )
