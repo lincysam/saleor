@@ -69,7 +69,8 @@ function* signupSaga(action: ReturnType<typeof actions.signupRequest>): Generato
     const firstName = nameParts[0] || '';
     const lastName = nameParts.slice(1).join(' ') || '';
     
-    const redirectUrl = `${window.location.origin}/confirm-account/`;
+    // const redirectUrl = `${window.location.origin}/confirm-account/`;
+    const redirectUrl = "http://frontend/confirm-account/";
     
     const { data } = yield call([apolloClient, 'mutate'], {
       mutation: ACCOUNT_REGISTER,
